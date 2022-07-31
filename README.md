@@ -1,2 +1,2 @@
 # python_practice
-learn python example 
+learn socket programing in python
